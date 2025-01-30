@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kfahkdsfhIt was the best of time, it was the worst o times.
+=======
+It was the best of time, it was the worst of times.
+>>>>>>> e7e688b175ba753b6163556101bcf8e5cbdee282
